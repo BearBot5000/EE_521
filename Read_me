@@ -1,0 +1,43 @@
+Final Project
+
+2) Shor’s algorithm for factorization
+
+     Explain quantum Fourier transform theoretically and then implement in qiskit
+
+     Then, explain factorization – discuss the theory and an implementation of all steps.
+
+Written report and  a 20 minute long video presentation (please be visible on the camera).
+
+
+
+Format for project:
+
+Please send your project topic to TA Yiren Wang by Wednesday (14th of this month).
+
+Two students per group  (Please do not mix EE 421 and 521 students)
+
+Use figure number and your favorite method for technical/scientific referencing.
+
+Qiskit code
+
+Submit a clearly commented Qiskit code if your group’s work involved qiskit
+
+Include comments in your code to explain what is being done theoretically
+
+Video
+
+Should be between 19 and 23 minutes. Not more, not less.
+
+Word file
+
+Introduction
+
+Technical discussion
+
+If quantum gates are used, explain their operation
+
+Where is this technologically?  (Don’t spend too much time on this.)
+
+Progress made in the last three years
+
+Bottlenecks to technological realization that should be overcome
